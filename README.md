@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Rafiere
-- 👀 I’m interested in Java and Shell Script.
+- 👀 I’m working with Java and learning Shell Script, Linux and JavaScript.
