@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Rafiere
-- 👀 I’m working with Java and learning Shell Script, Linux and JavaScript.
+- 👀 Learning: Java (Spring and Quarkus), TypeScript (NestJS and React), Clojure (Pedestal IO), Go and Shell Script. 
