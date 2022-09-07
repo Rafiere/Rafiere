@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Rafiere
-- 👀 Learning: Java (Spring and Quarkus), TypeScript (NestJS and React), Clojure (Pedestal IO), Go and Shell Script. 
+- 👋 Hi, I’m @Rafiere.
+- 👀 Learning: Java (Spring and Quarkus), TypeScript (NestJS and React), Clojure (Pedestal IO), Go and Shell Script.
