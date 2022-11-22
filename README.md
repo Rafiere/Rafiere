@@ -12,4 +12,6 @@
 
   - SGBDs: MySQL, PostgreSQL and MongoDB
 
-  - Others: SQL, Bash and Clojure
+  - Other Languages: SQL and Bash
+
+  - Other Tools: Docker, Kubernetes, Firebase, Prometheus and Grafana
