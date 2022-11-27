@@ -3,10 +3,10 @@
 - 👀 Learning:
 
   - Front-End: HTML, CSS and JavaScript/TypeScript
-    - Frameworks: React
+    - Tools: React
 
   - Back-End: Java and TypeScript
-    - Frameworks: Spring Framework (Java) and NestJS (TypeScript)
+    - Tools: Spring Framework (Java) and NestJS (TypeScript)
 
   - Cloud: AWS
 
