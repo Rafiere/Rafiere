@@ -6,7 +6,7 @@
     - Tools: React
 
   - Back-End: Java
-    - Tools: Spring Framework (Java)
+    - Tools: Spring Framework
 
   - Cloud: AWS
 
