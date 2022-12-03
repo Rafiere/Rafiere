@@ -5,8 +5,8 @@
   - Front-End: HTML, CSS and JavaScript/TypeScript
     - Tools: React
 
-  - Back-End: Java and TypeScript
-    - Tools: Spring Framework (Java) and NestJS (TypeScript)
+  - Back-End: Java
+    - Tools: Spring Framework (Java)
 
   - Cloud: AWS
 
