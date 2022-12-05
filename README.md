@@ -18,4 +18,4 @@
 
   - IDEs: IntelliJ IDEA, WebStorm, DataGrip and VSCode
 
-  - SO: Ubuntu 22.04 - Jammy Jellyfish
+  - OS: Ubuntu 22.04 - Jammy Jellyfish
