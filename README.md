@@ -3,7 +3,7 @@
 - 👀 Learning:
 
   - Front-End: HTML, CSS and JavaScript/TypeScript
-    - Tools: React
+    - Tools: React, Angular and JQuery
 
   - Back-End: Java
     - Tools: Spring Framework
