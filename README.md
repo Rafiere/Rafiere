@@ -8,7 +8,7 @@
   - Back-End: Java
     - Tools: Spring Framework
 
-  - Cloud: AWS
+  - Cloud: AWS, GCP
 
   - SGBDs: MySQL, PostgreSQL and MongoDB
 
