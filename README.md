@@ -6,7 +6,7 @@
     - Tools: React
 
   - Back-End: Java and TypeScript
-    - Tools: Spring Framework and NestJS
+    - Tools: Spring Framework | ExpressJS and NestJS
 
   - Cloud: AWS, GCP
 
