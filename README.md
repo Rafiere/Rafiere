@@ -8,13 +8,13 @@
   - Back-End: Java and TypeScript
     - Tools: Spring Framework | ExpressJS and NestJS
 
-  - Cloud: AWS, GCP
+  - Cloud: AWS and GCP.
 
   - SGBDs: MySQL, PostgreSQL and MongoDB
 
   - Other Languages: SQL and Shell Script + AWK
 
-  - Other Tools and Topics: Networks, Markdown, Linux, Git, Docker, Kubernetes, Firebase, Prometheus and Grafana
+  - Other Tools and Topics: CI/CD, Ansible, Terraform, Networks, Markdown, Linux, Git, Docker, Kubernetes, Firebase, Prometheus and Grafana
 
   - IDEs: IntelliJ IDEA, WebStorm, DataGrip and VSCode
 
