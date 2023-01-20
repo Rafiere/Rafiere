@@ -14,7 +14,7 @@
 
   - Other Languages: SQL and Shell Script
 
-  - Other Tools: Linux, Git, Docker, Kubernetes, Firebase, Prometheus and Grafana
+  - Other Tools: Markdown, Linux, Git, Docker, Kubernetes, Firebase, Prometheus and Grafana
 
   - IDEs: IntelliJ IDEA, WebStorm, DataGrip and VSCode
 
