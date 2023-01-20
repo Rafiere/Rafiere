@@ -12,7 +12,7 @@
 
   - SGBDs: MySQL, PostgreSQL and MongoDB
 
-  - Other Languages: SQL and Shell Script
+  - Other Languages: SQL and Shell Script + AWK
 
   - Other Tools: Markdown, Linux, Git, Docker, Kubernetes, Firebase, Prometheus and Grafana
 
