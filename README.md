@@ -1,4 +1,8 @@
+# ABOUT ME
+
 - 👋 Hi, I’m @Rafiere.
+
+# LEARNING
 
 - 👀 Learning:
 
