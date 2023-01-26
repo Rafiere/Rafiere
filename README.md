@@ -1,10 +1,8 @@
-# ABOUT ME
+# 👋 ABOUT ME
 
-- 👋 Hi, I’m @Rafiere.
+-  Hi, I’m @Rafiere.
 
-# LEARNING
-
-- 👀 Learning:
+# 👀 LEARNING
 
   - Front-End: HTML, CSS and JavaScript/TypeScript
     - Tools: React
