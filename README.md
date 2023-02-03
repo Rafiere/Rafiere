@@ -10,7 +10,7 @@
   - Back-End: Java and TypeScript
     - Tools: Spring Framework | ExpressJS and NestJS
 
-  - Cloud: AWS and GCP
+  - Cloud: AWS
 
   - SGBDs: MySQL, PostgreSQL and MongoDB
 
