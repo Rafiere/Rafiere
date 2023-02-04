@@ -10,11 +10,13 @@
   - Back-End: Java and TypeScript
     - Tools: Spring Framework | ExpressJS and NestJS
 
+  - Scripts: Python and Shell Script + AWK
+
   - Cloud: AWS
 
   - SGBDs: MySQL, PostgreSQL and MongoDB
 
-  - Other Languages: SQL, Markdown and Shell Script + AWK
+  - Other Languages: SQL and Markdown
 
   - Other Tools and Topics: Linux, Networks, Git, Docker, Kubernetes, Ansible, Terraform, Firebase, CI/CD, Prometheus and Grafana
 
