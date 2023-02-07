@@ -7,8 +7,8 @@
   - Front-End: HTML, CSS and JavaScript/TypeScript
     - Tools: React
 
-  - Back-End: Java and TypeScript
-    - Tools: Spring Framework | ExpressJS and NestJS
+  - Back-End: Java
+    - Tools: Spring Framework
 
   - Scripts: Python and Shell Script + AWK
 
