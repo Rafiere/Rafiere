@@ -8,7 +8,7 @@
     - Tools: React
 
   - Back-End: Java | TypeScript
-    - Tools: Spring Framework | ExpressJS and NestJS
+    - Tools: Spring Framework and Quarkus | ExpressJS and NestJS
 
   - Scripts: Python and Shell Script + AWK
 
