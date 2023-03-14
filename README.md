@@ -12,13 +12,13 @@
 
   - Scripts: Python and Shell Script + AWK
 
-  - Cloud: AWS
+  - Cloud: AWS and Firebase
 
   - SGBDs: MySQL, PostgreSQL and MongoDB
 
   - Other Languages: SQL and Markdown
 
-  - Other Tools and Topics: Linux, Networks, Git, Docker, Kubernetes, Ansible, Terraform, Firebase, CI/CD, Prometheus and Grafana
+  - Other Tools and Topics: Linux, Networks, Git, Docker, Kubernetes, Ansible, Terraform, CI/CD, Prometheus and Grafana
 
   - IDEs: IntelliJ IDEA, WebStorm, DataGrip and VSCode
 
