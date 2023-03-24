@@ -20,6 +20,6 @@
 
   - Other Tools and Topics: Linux, Networks, Git, Docker, Kubernetes, Ansible, Terraform, CI/CD, Prometheus and Grafana
 
-  - IDEs: IntelliJ IDEA, WebStorm, DataGrip and VSCode
+  - IDEs: IntelliJ IDEA, WebStorm, DataGrip, PyCharm and VSCode
 
   - OS: Ubuntu Desktop 22.04 - Jammy Jellyfish
