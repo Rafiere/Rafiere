@@ -5,7 +5,7 @@
 # 👀 LEARNING
 
   - Front-End: HTML, CSS and JavaScript/TypeScript
-    - Tools: React and Angular
+    - Tools: React
 
   - Back-End: Java | TypeScript | Go
     - Tools: Spring Framework and Quarkus | ExpressJS and NestJS | Gin
