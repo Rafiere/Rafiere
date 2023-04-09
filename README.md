@@ -7,8 +7,8 @@
   - Front-End: HTML, CSS and JavaScript/TypeScript
     - Tools: React and Angular
 
-  - Back-End: Java | TypeScript
-    - Tools: Spring Framework and Quarkus | ExpressJS and NestJS
+  - Back-End: Java | TypeScript | Go
+    - Tools: Spring Framework and Quarkus | ExpressJS and NestJS | Gin
 
   - Scripts: Python and Shell Script + AWK
 
