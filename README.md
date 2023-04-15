@@ -5,10 +5,10 @@
 # 👀 LEARNING
 
   - Front-End: HTML, CSS and JavaScript/TypeScript
-    - Tools: React
+    - Libraries/Frameworks: React
 
   - Back-End: Java | TypeScript | Go
-    - Tools: Spring Framework and Quarkus | ExpressJS and NestJS | Gin
+    - Libraries/Frameworks: Spring Framework and Quarkus | ExpressJS and NestJS | Gin
 
   - Scripts: Python and Shell Script + AWK
 
