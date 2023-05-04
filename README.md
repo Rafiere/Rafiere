@@ -12,7 +12,7 @@
 
   - Scripts: Python and Shell Script + AWK
 
-  - Cloud: AWS and Firebase
+  - Cloud: AWS and Firebase (Authentication, Firestore, RealtimeDB, Storage, Hosting, Functions and Messaging)
 
   - SGBDs: MySQL, PostgreSQL and MongoDB
 
