@@ -18,7 +18,7 @@
 
   - Other Languages: SQL and Markdown
 
-  - Other Tools and Topics: Git, Docker, Kubernetes, CI/CD, Prometheus, Grafana, New Relic, Linux and Networks.
+  - Other Tools and Topics: Git, Docker, Kubernetes, Kafka, CI/CD, Prometheus, Grafana, New Relic, Linux and Networks.
 
   - IDEs: IntelliJ IDEA, WebStorm, DataGrip and VSCode
 
