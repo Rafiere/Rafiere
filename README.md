@@ -7,19 +7,19 @@
   - Front-End: HTML, CSS and JavaScript/TypeScript
     - Libraries/Frameworks: React
 
-  - Back-End: Java | TypeScript | Go
-    - Libraries/Frameworks: Spring Framework and Quarkus | ExpressJS and NestJS | Gin
+  - Back-End: Java
+    - Libraries/Frameworks: Spring Framework
 
-  - Scripts: Python and Shell Script + AWK
+  - Scripts: Shell Script + AWK
 
-  - Cloud: AWS and Firebase (Authentication, Firestore, RealtimeDB, Storage, Hosting, Functions, Messaging and Emulators)
+  - Cloud: AWS (EC2, S3, Amazon SES) and Firebase (Authentication, Firestore, RealtimeDB, Storage, Hosting, Functions, Messaging and Emulators)
 
   - SGBDs: MySQL, PostgreSQL and MongoDB
 
   - Other Languages: SQL and Markdown
 
-  - Other Tools and Topics: Linux, Networks, Git, Docker, Kubernetes, Ansible, Terraform, CI/CD, Prometheus, Grafana and New Relic.
+  - Other Tools and Topics: Git, Docker, Kubernetes, CI/CD, Prometheus, Grafana, New Relic, Linux and Networks.
 
-  - IDEs: IntelliJ IDEA, WebStorm, GoLand, DataGrip, PyCharm and VSCode
+  - IDEs: IntelliJ IDEA, WebStorm, DataGrip and VSCode
 
   - OS: Ubuntu Desktop 22.04 - Jammy Jellyfish
