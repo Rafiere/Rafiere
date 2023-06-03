@@ -4,49 +4,30 @@
 
 # 👀 LEARNING
 
-  - Front-End: HTML, CSS and JavaScript/TypeScript
-    - Libraries/Frameworks: 
-      - React (Chakra UI, Material UI and Tailwind CSS)
+- Front-End: HTML, CSS and JavaScript/TypeScript
+  - React (Chakra UI, Material UI and Tailwind CSS)
 
-  - Back-End: Java
-    - Libraries/Frameworks: 
-      - Spring (Spring Boot, Spring Framework, Spring Data JPA and Redis, Spring Security, Spring Cloud, Spring Batch and Spring AOP) 
-      - Hibernate
- 
-  - Scripts:
-    - Shell Script
-    - AWK
+- Back-End: Java
+  - Spring (Spring Boot, Spring Framework, Spring Data JPA and Redis, Spring Security, Spring Batch and Spring AOP)
 
-  - Cloud: 
-    - AWS (EC2, S3, Amazon SES) 
-    - Firebase (Authentication, Firestore, RealtimeDB, Storage, Hosting, Functions, Messaging and Emulators)
+- Scripts
+  - Shell Script and AWK
 
-  - SGBDs: 
-    - MySQL
-    - PostgreSQL
-    - Redis
+- Cloud: 
+  - AWS (EC2, S3, Amazon SES)
+  - Firebase (Authentication, Firestore, RealtimeDB, Storage, Hosting, Functions, Messaging and Emulators)
 
-  - Other Languages: 
-    - SQL
-    - Markdown
+- SGBDs
+  - MySQL, PostgreSQL and Redis
 
-  - Other Tools and Topics: 
-    - Git
-    - Docker
-    - Kubernetes
-    - Kafka
-    - CI/CD
-    - Prometheus
-    - Grafana
-    - New Relic
-    - Linux
-    - Networks
+- Other Languages: 
+  - SQL and Markdown
 
-  - IDEs
-    - IntelliJ IDEA
-    - WebStorm
-    - DataGrip
-    - VSCode
+- Other Tools and Topics
+  - Git, Docker, Kubernetes, Kafka, CI/CD, Prometheus, Grafana, New Relic, Linux and Networks.
 
-  - OS
-    - Ubuntu Desktop 22.04 - Jammy Jellyfish
+- IDEs
+  - IntelliJ IDEA, WebStorm, DataGrip and VSCode
+
+- OS:
+  - Ubuntu Desktop 22.04 - Jammy Jellyfish
