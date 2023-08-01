@@ -11,23 +11,23 @@
   - Spring (Spring Boot, Spring Framework, Spring Data JPA and Redis, Spring Security, Spring Batch and Spring AOP)
   - Hibernate and JUnit
 
-- **Scripts**
+- **Scripts**:
   - Shell Script and AWK
 
 - **Cloud**: 
   - AWS (EC2, S3, Amazon SES)
   - Firebase (Authentication, Firestore, RealtimeDB, Storage, Hosting, Functions, Messaging and Emulators)
 
-- **SGBDs**
+- **SGBDs**:
   - MySQL, PostgreSQL and Redis
 
 - **Other Languages**: 
   - SQL and Markdown
 
-- **Other Tools and Topics**
+- **Other Tools and Topics**:
   - Git, Docker, Kubernetes, Kafka, CI/CD, OpenTelemetry, Sentry, Jaeger, Prometheus, Grafana, New Relic, Linux, Networks, Design Patterns and DDD.
 
-- **IDEs**
+- **IDEs**:
   - IntelliJ IDEA, WebStorm, DataGrip and VSCode
 
 - **OS**:
