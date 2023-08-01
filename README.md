@@ -8,7 +8,8 @@
   - React (Chakra UI, Material UI and Tailwind CSS)
 
 - Back-End: Java
-  - Spring (Spring Boot, Spring Framework, Spring Data JPA and Redis, Spring Security, Spring Batch and Spring AOP)
+  - Spring (Spring Boot, Spring Framework, Spring Data JPA and Redis, Spring Security, Spring Batch and Spring AOP) and Hibernate
+  - NestJS and Prisma
 
 - Scripts
   - Shell Script and AWK
@@ -24,7 +25,7 @@
   - SQL and Markdown
 
 - Other Tools and Topics
-  - Git, Docker, Kubernetes, Kafka, CI/CD, OpenTelemetry, Sentry, Jaeger, Prometheus, Grafana, New Relic, Linux, Networks and Design Patterns.
+  - Git, Docker, Kubernetes, Kafka, CI/CD, OpenTelemetry, Sentry, Jaeger, Prometheus, Grafana, New Relic, Linux, Networks, Design Patterns and DDD.
 
 - IDEs
   - IntelliJ IDEA, WebStorm, DataGrip and VSCode
