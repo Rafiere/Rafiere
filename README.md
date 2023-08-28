@@ -9,7 +9,7 @@
 
 - **Back-End**: Java
   - Spring (Spring Boot, Spring Framework, Spring Data JPA and Redis, Spring Security, Spring Batch and Spring AOP)
-  - Hibernate and JUnit
+  - Hibernate, JUnit and Vavr.
 
 - **Scripts**:
   - Shell Script and AWK
