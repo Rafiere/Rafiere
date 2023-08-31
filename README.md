@@ -25,7 +25,7 @@
   - SQL and Markdown
 
 - **Other Tools and Topics**:
-  - Git, Docker, Kubernetes, Kafka, CI/CD, OpenTelemetry, Sentry, Jaeger, Prometheus, Grafana, New Relic, Linux, Networks, Design Patterns, DDD, Event Storming, Hexagonal Architecture, Clean Architecture, Ansible, Terraform and Nginx.
+  - Git, Docker, Kubernetes, Kafka, CI/CD, OpenTelemetry, Sentry, Jaeger, Prometheus, Grafana, New Relic, Linux, Networks, Design Patterns, DDD, Event Storming, Hexagonal Architecture, Clean Architecture, Ansible, Terraform, Nginx and Redocly.
 
 - **IDEs**:
   - IntelliJ IDEA, WebStorm, DataGrip and VSCode
