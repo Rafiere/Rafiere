@@ -9,7 +9,7 @@
 
 - **Back-End**: Java
   - Spring (Spring Boot, Spring Framework, Spring Data JPA and Redis, Spring Security, Spring Batch and Spring AOP)
-  - Hibernate, JUnit and Vavr.
+  - Hibernate, JUnit, Vavr and HikariCP.
 
 - **Scripts**:
   - Shell Script and AWK
@@ -25,7 +25,7 @@
   - SQL and Markdown
 
 - **Other Tools and Topics**:
-  - Git, Docker, Kubernetes, Kafka, CI/CD, OpenTelemetry, Sentry, Jaeger, Prometheus, Grafana, New Relic, GitHub Actions, Linux, Networks, Design Patterns, DDD, SOLID, Event Storming, Hexagonal Architecture, Clean Architecture, Ansible, Terraform, Nginx and Redocly.
+  - Git, Docker, Kubernetes, Kafka, CI/CD, OpenTelemetry, Sentry, Jaeger, Prometheus, Grafana, New Relic, GitHub Actions, Linux, Networks, Design Patterns, DDD, SOLID, Event Storming, Hexagonal Architecture, Clean Architecture, Ansible, Terraform, Nginx, SonarQube and Redocly.
 
 - **IDEs**:
   - IntelliJ IDEA, WebStorm, DataGrip and VSCode
