@@ -6,6 +6,7 @@
 
 Currently, I'm studying the concepts below.
 
+
 - **Front-End**: HTML, CSS and JavaScript/TypeScript
   - React (Chakra UI, Material UI and Tailwind CSS)
 
