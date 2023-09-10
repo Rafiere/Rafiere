@@ -4,6 +4,8 @@
 
 # 👀 LEARNING
 
+Currently, I'm studying the concepts below.
+
 - **Front-End**: HTML, CSS and JavaScript/TypeScript
   - React (Chakra UI, Material UI and Tailwind CSS)
 
@@ -25,7 +27,7 @@
   - SQL and Markdown
 
 - **Other Tools and Topics**:
-  - Git, Docker, Kubernetes, Kafka, CI/CD, OpenTelemetry, Sentry, Jaeger, Prometheus, Grafana, New Relic, GitHub Actions, Linux, Networks, Design Patterns, DDD, SOLID, Event Storming, Hexagonal Architecture, Clean Architecture, Ansible, Terraform, Nginx, SonarQube and Redocly.
+  - Git, Docker, Kubernetes, Kafka, CI/CD, OpenTelemetry, Sentry, Jaeger, Prometheus, Grafana, New Relic, GitHub Actions, Linux, Networks, Design Patterns, DDD, SOLID, Event Storming, Hexagonal Architecture, Clean Architecture, Ansible, Terraform, Istio, Nginx, SonarQube and Redocly.
 
 - **IDEs**:
   - IntelliJ IDEA, WebStorm, DataGrip and VSCode
