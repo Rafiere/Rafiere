@@ -10,7 +10,7 @@ Currently, I'm studying the concepts below.
 - **Front-End**: HTML, CSS and JavaScript/TypeScript
   - React (Chakra UI, Material UI and Tailwind CSS)
 
-- **Back-End**: Java
+- **Back-End**: Java and Golang
   - Spring (Spring Boot, Spring Framework, Spring Data JPA and Redis, Spring Security, Spring Batch and Spring AOP)
   - Hibernate, JUnit, Vavr and HikariCP.
 
