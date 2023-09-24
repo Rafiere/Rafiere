@@ -12,7 +12,7 @@ Currently, I'm studying the concepts below.
 
 - **Back-End**: Java and Golang
   - Spring (Spring Boot, Spring Framework, Spring Data JPA and Redis, Spring Security, Spring Batch and Spring AOP)
-  - Hibernate, JUnit, Vavr and HikariCP.
+  - Hibernate, JUnit, Vavr, Maven, Gradle and HikariCP.
 
 - **Scripts**:
   - Shell Script and AWK
@@ -28,7 +28,7 @@ Currently, I'm studying the concepts below.
   - SQL and Markdown
 
 - **Other Tools and Topics**:
-  - Git, Docker, Kubernetes, Kafka, CI/CD, OpenTelemetry, Sentry, Jaeger, Prometheus, Grafana, New Relic, GitHub Actions, Linux, Networks, Design Patterns, DDD, SOLID, Event Storming, Hexagonal Architecture, Clean Architecture, Ansible, Terraform, Istio, Nginx, SonarQube and Redocly.
+  - Git, Docker, Kubernetes, Kafka, RabbitMQ, CI/CD, OpenTelemetry, Sentry, Jaeger, Prometheus, Grafana, New Relic, GitHub Actions, Linux, Networks, Design Patterns, DDD, SOLID, Event Storming, Hexagonal Architecture, Clean Architecture, Microservices Architecture, Ansible, Terraform, Istio, Nginx, SonarQube, Redocly, Scrum and Kanban.
 
 - **IDEs**:
   - IntelliJ IDEA, WebStorm, DataGrip and VSCode
