@@ -12,7 +12,7 @@ Currently, I'm studying the concepts below.
 
 - **Back-End**: Java and Golang
   - Spring (Spring Boot, Spring Framework, Spring Data JPA and Redis, Spring Security, Spring Batch, Spring AOP and Spring WebFlux)
-  - Hibernate, JUnit, Vavr, Maven, Gradle and HikariCP.
+  - Hibernate, Thymeleaf, JUnit, Vavr, Maven, Gradle and HikariCP.
 
 - **Scripts**:
   - Shell Script and AWK
