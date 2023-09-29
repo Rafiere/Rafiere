@@ -11,7 +11,7 @@ Currently, I'm studying the concepts below.
   - React (Chakra UI, Material UI and Tailwind CSS)
 
 - **Back-End**: Java and Golang
-  - Spring (Spring Boot, Spring Data JPA and Redis, Spring Security, Spring Batch, Spring AOP and Spring WebFlux)
+  - Spring (Spring Boot, Spring Web, Spring Data JPA and Redis, Spring Security, Spring Batch, Spring AOP and Spring WebFlux)
   - Hibernate, Thymeleaf, JUnit, Mockito, Testcontainers, Vavr, Maven, Gradle and HikariCP.
 
 - **Scripts**:
