@@ -10,11 +10,9 @@ Currently, I'm studying the concepts below.
 - **Front-End**: HTML, CSS and JavaScript/TypeScript
   - React (Chakra UI)
 
-- **Back-End**: Java and Kotlin
+- **Back-End**: Java
   - Spring (Spring Boot, Spring Web, Spring Data JPA and Redis, Spring Security, Spring Batch, Spring AOP and Spring WebFlux)
   - Hibernate, Thymeleaf, JUnit, Mockito, Testcontainers, Vavr, Maven, Gradle and HikariCP.
- 
-  - Ktor
 
 - **Scripts**:
   - Shell Script and AWK
