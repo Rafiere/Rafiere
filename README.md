@@ -24,7 +24,7 @@ Currently, I'm studying the concepts below.
 - **SGBDs**:
   - MySQL, PostgreSQL and Redis
 
-- **Other Languages**: 
+- **Other Languages/DSLs**: 
   - SQL, JPQL/HQL, Markdown and Mermaid
 
 - **Other Tools and Topics**:
