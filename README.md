@@ -12,7 +12,7 @@ Currently, I'm studying the concepts below.
 
 - **Back-End**: Java
   - Spring (Spring Boot, Spring Web, Spring Data JPA and Redis, Spring Security, Spring Batch, Spring AOP and Spring WebFlux)
-  - Quarkus, Hibernate, Panache, Thymeleaf, JUnit, Mockito, PowerMock, Hamcrest, Testcontainers, Vavr, Maven, Gradle, HikariCP and Microprofile.
+  - Quarkus, Hibernate, Panache, jOOQ, Thymeleaf, JUnit, Mockito, PowerMock, Hamcrest, Testcontainers, Vavr, Maven, Gradle, HikariCP and Microprofile.
 
 - **Scripts**:
   - Shell Script and AWK
