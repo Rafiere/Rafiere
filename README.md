@@ -9,7 +9,7 @@ Currently, I'm studying the concepts below.
 
 - **Front-End**: HTML, CSS and JavaScript/TypeScript
   - React (Chakra UI)
-  - Angular (Angular Material, Angular Router, Angular Universal)
+  - Angular (Angular Material)
 
 - **Back-End**: Java
   - Spring (Spring Boot, Spring Web, Spring Data JPA and Redis, Spring Security, Spring Batch, Spring AOP and Spring WebFlux)
