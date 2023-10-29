@@ -34,7 +34,7 @@ Currently, I'm studying the concepts below.
   - Git, GitHub, BitBucket, Software Testing, Keycloak, Docker, Kubernetes, Kafka, RabbitMQ, CI/CD, OpenTelemetry, Sentry, Jaeger, Prometheus, Grafana, New Relic, GitHub Actions, Linux, Networks, Design Patterns, DDD, SOLID, Event Storming, Hexagonal Architecture, Clean Architecture, Microservices Architecture, Event-Driven Architecture, Ansible, Terraform, Istio, Nginx, SonarQube, Redocly, System Design, Data Structures, Algorithms, Scrum and Kanban.
 
 - **IDEs**:
-  - IntelliJ IDEA, WebStorm, Goland, DataGrip and VSCode
+  - IntelliJ IDEA (with Cursive plugin for Clojure), WebStorm, Goland, DataGrip and VSCode
 
 - **OS**:
   - Ubuntu Desktop 22.04 - Jammy Jellyfish
