@@ -15,7 +15,7 @@ Currently, I'm studying the concepts below.
   - Spring (Spring Boot, Spring Web, Spring Data JPA and Redis, Spring Security, Spring Batch, Spring AOP and Spring WebFlux).
   - Quarkus, Hibernate, EHCache, Envers, Jackson, Panache, jOOQ, Thymeleaf, JUnit, Mockito, PowerMock, Hamcrest, Testcontainers, Vavr, Maven, Gradle, HikariCP, Agroal and Microprofile.
 
-  - Kit, deps.edn, Pedestal and Leiningen.
+  - Kit, Pedestal, deps.edn and Leiningen.
 
 - **Scripts**:
   - Shell Script and AWK
