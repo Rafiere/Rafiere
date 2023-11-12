@@ -13,7 +13,7 @@ Currently, I'm studying the concepts below.
 
 - **Back-End**: Java and Clojure
   - Spring (Spring Boot, Spring Web, Spring Data JPA and Redis, Spring Security, Spring Batch, Spring AOP, Spring WebFlux and Spring Shell).
-  - Quarkus, Hibernate, EHCache, Envers, Jackson, Panache, jOOQ, Thymeleaf, JUnit, Mockito, PowerMock, Hamcrest, Testcontainers, Vavr, Maven, Gradle, HikariCP, Agroal and Microprofile.
+  - Quarkus, Hibernate, EHCache, Envers, MapStruct, Jackson, Panache, jOOQ, Thymeleaf, JUnit, Mockito, PowerMock, Hamcrest, Testcontainers, Vavr, Maven, Gradle, HikariCP, Agroal and Microprofile.
 
   - Kit, Pedestal, deps.edn and Leiningen.
 
