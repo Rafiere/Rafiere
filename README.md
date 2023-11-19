@@ -13,7 +13,7 @@ Currently, I'm studying the concepts below.
 
 - **Back-End**: Java and Clojure
   - Spring (Spring Core, Spring Boot, Spring Data JPA and Redis, Spring Security, Spring Batch, Spring Shell, Spring Actuator, Spring Cloud, Spring Cloud Data Flow, Spring for GraphQL, Spring AMQP and Spring for Apache Kafka).
-  - Quarkus, Hibernate, EHCache, Envers, MapStruct, Jackson, Panache, jOOQ, Thymeleaf, JUnit, Mockito, PowerMock, Hamcrest, Testcontainers, Vavr, Maven, Gradle, HikariCP, Agroal and Microprofile.
+  - Quarkus, Hibernate, EHCache, Envers, MapStruct, Jackson, Panache, jOOQ, Thymeleaf, JUnit, Mockito, PowerMock, Hamcrest, Testcontainers, Vavr, Maven, Gradle, HikariCP, Agroal, Microprofile and Atomikos.
 
   - Kit, Pedestal, deps.edn and Leiningen.
 
@@ -31,7 +31,7 @@ Currently, I'm studying the concepts below.
   - SQL, JPQL/HQL, Markdown and Mermaid
 
 - **Other Tools and Topics**:
-  - Git, GitHub, BitBucket, Software Testing, Keycloak, Docker, Kubernetes, Kafka, RabbitMQ, CI/CD, OpenTelemetry, Sentry, Jaeger, Prometheus, Grafana, New Relic, GitHub Actions, Linux, Networks, Design Patterns, DDD, SOLID, Event Storming, Hexagonal Architecture, Clean Architecture, Microservices Architecture, Event-Driven Architecture, OOP, Functional Programming, Ansible, Terraform, Istio, Nginx, SonarQube, Redocly, System Design, Data Structures, Algorithms, JVM Tuning, VisualVM, JMeter, Scrum and Kanban.
+  - Git, GitHub, BitBucket, Software Testing, Keycloak, Docker, Kubernetes, Kafka, RabbitMQ, CI/CD, OpenTelemetry, Sentry, Jaeger, Prometheus, Grafana, New Relic, GitHub Actions, Linux, Networks, Design Patterns, DDD, SOLID, Event Storming, Hexagonal Architecture, Clean Architecture, Microservices Architecture, Event-Driven Architecture, 2PC, OOP, Functional Programming, Ansible, Terraform, Istio, Nginx, SonarQube, Redocly, System Design, Data Structures, Algorithms, JVM Tuning, VisualVM, JMeter, Scrum and Kanban.
 
 - **IDEs**:
   - IntelliJ IDEA (with Cursive plugin for Clojure), WebStorm, Goland, DataGrip and VSCode
