@@ -12,7 +12,7 @@ Currently, I'm studying the concepts below.
   - Angular (Angular Material)
 
 - **Back-End**: Java and Clojure
-  - Spring (Spring Core, Spring Boot, Spring Data JPA and Redis, Spring Security, Spring Batch, Spring Shell, Spring Actuator, Spring Cloud, Spring Cloud Data Flow, Spring for GraphQL, Spring AMQP and Spring for Apache Kafka).
+  - Spring (Spring Core, Spring Boot, Spring Data JPA, Redis and JDBC, Spring Security, Spring Batch, Spring Shell, Spring Actuator, Spring Cloud, Spring Cloud Data Flow, Spring for GraphQL, Spring AMQP and Spring for Apache Kafka).
   - Quarkus, Hibernate, EHCache, Envers, MapStruct, Jackson, Panache, jOOQ, Thymeleaf, JUnit, Mockito, PowerMock, Hamcrest, Testcontainers, Vavr, Maven, Gradle, HikariCP, Agroal, Microprofile and Atomikos.
 
   - Kit, Pedestal, deps.edn and Leiningen.
