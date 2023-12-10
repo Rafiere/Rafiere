@@ -31,7 +31,7 @@ Currently, I'm studying the concepts below.
   - SQL, JPQL/HQL, Markdown and Mermaid
 
 - **Other Tools and Topics**:
-  - Git, GitHub, BitBucket, Software Testing, Keycloak, Docker, Kubernetes, Kafka, RabbitMQ, CI/CD, OpenTelemetry, Sentry, Jaeger, Prometheus, Grafana, New Relic, GitHub Actions, Linux, Networks, Design Patterns, DDD, SOLID, Event Storming, Hexagonal Architecture, Clean Architecture, Microservices Architecture, Event-Driven Architecture, 2PC, OOP, Functional Programming, Ansible, Terraform, Istio, Nginx, SonarQube, Redocly, System Design, Data Structures, Algorithms, JVM Tuning, VisualVM, JMeter, Scrum and Kanban.
+  - Git, GitHub, BitBucket, Software Testing, Keycloak, Docker, Kubernetes, Kafka, RabbitMQ, CI/CD, OpenTelemetry, Sentry, Jaeger, Prometheus, Grafana, New Relic, GitHub Actions, Linux, Networks, Design Patterns, DDD, SOLID, Event Storming, Hexagonal Architecture, Clean Architecture, Microservices Architecture, Event-Driven Architecture, 2PC, OOP, Functional Programming, Ansible, Terraform, Istio, Nginx, SonarQube, Redocly, System Design, Data Structures, Algorithms, JVM Tuning, VisualVM, JMeter, Wireshark, Scrum and Kanban.
 
 - **IDEs**:
   - IntelliJ IDEA (with Cursive plugin for Clojure), WebStorm, Goland, DataGrip and VSCode
