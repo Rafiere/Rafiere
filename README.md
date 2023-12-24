@@ -13,7 +13,7 @@ Currently, I'm studying the concepts below.
 
 - **Back-End**: Java and curious about Golang, Rust and Clojure.
   - Spring (Spring Framework, Spring Boot, Spring Data JPA, Redis and JDBC, Spring Security, Spring Batch, Spring Shell, Spring Cloud, Spring Cloud Data Flow, Spring for GraphQL, Spring AMQP and Spring for Apache Kafka).
-  - Quarkus, Hibernate, EHCache, Envers, MapStruct, Jackson, Panache, jOOQ, Thymeleaf, JUnit, Mockito, PowerMock, Hamcrest, Testcontainers, Vavr, Maven, Gradle, HikariCP, Agroal, Microprofile and Atomikos.
+  - Quarkus, Hibernate, EHCache, Envers, MapStruct, Jackson, Panache, jOOQ, Thymeleaf, JUnit, Mockito, PowerMock, Hamcrest, Testcontainers, Vavr, Maven, Gradle, HikariCP, Agroal, Microprofile, Atomikos, JMeter, JVM Tuning and VisualVM.
 
 - **Scripts**:
   - Shell Script and AWK
@@ -29,7 +29,7 @@ Currently, I'm studying the concepts below.
   - SQL, JPQL/HQL, Markdown and Mermaid
 
 - **Other Tools and Topics**:
-  - Git, GitHub, BitBucket, Software Testing, Keycloak, Docker, Kubernetes, Kafka, RabbitMQ, CI/CD, OpenTelemetry, Sentry, Jaeger, Prometheus, Grafana, New Relic, GitHub Actions, Linux, Networks, GraphQL, gRPC, Design Patterns, DDD, SOLID, Event Storming, Hexagonal Architecture, Clean Architecture, Microservices Architecture, Event-Driven Architecture, 2PC, OOP, Functional Programming, Ansible, Terraform, Istio, Kong, Consul, Nginx, SonarQube, Redocly, System Design, Data Structures, Algorithms, JVM Tuning, VisualVM, JMeter, Wireshark, Scrum and Kanban.
+  - Git, GitHub, BitBucket, Software Testing, Keycloak, Docker, Kubernetes, Kafka, RabbitMQ, CI/CD, OpenTelemetry, Sentry, Jaeger, Prometheus, Grafana, New Relic, GitHub Actions, Linux, Networks, GraphQL, gRPC, Design Patterns, DDD, SOLID, Event Storming, Hexagonal Architecture, Clean Architecture, Microservices Architecture, Event-Driven Architecture, 2PC, OOP, Functional Programming, Ansible, Terraform, Istio, Kong, Consul, Nginx, SonarQube, Redocly, System Design, Data Structures, Algorithms, Wireshark, Scrum and Kanban.
 
 - **IDEs**:
   - IntelliJ IDEA (with Cursive plugin for Clojure), WebStorm, Goland, DataGrip and VSCode
