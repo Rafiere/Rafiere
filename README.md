@@ -19,7 +19,7 @@ Currently, I'm studying the concepts below.
   - Shell Script and AWK
 
 - **Cloud**: 
-  - AWS (EC2, S3, Amazon SES)
+  - AWS (IAM, VPC, EC2, S3, EKS, SES)
   - Firebase (Authentication, Firestore, RealtimeDB, Storage, Hosting, Functions, Messaging and Emulators)
 
 - **SGBDs**:
