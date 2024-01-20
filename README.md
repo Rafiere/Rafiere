@@ -13,7 +13,7 @@ Currently, I'm studying the concepts below.
 
 - **Back-End**: Java, Kotlin and curious about Golang, Rust and Clojure.
   - Spring (Spring Framework, Spring Boot, Spring Data JPA, Redis and JDBC, Spring Security, Spring Batch, Spring Shell, Spring Cloud, Spring Cloud Data Flow, Spring for GraphQL, Spring AMQP and Spring for Apache Kafka).
-  - Quarkus, Hibernate, EHCache, Envers, MapStruct, Jackson, Panache, jOOQ, Thymeleaf, JUnit, Mockito, PowerMock, Hamcrest, Testcontainers, Vavr, Maven, Gradle, HikariCP, Agroal, Microprofile, Atomikos, JMeter, JVM Tuning and VisualVM.
+  - Quarkus, Hibernate, EHCache, Envers, MapStruct, Jackson, Panache, jOOQ, Thymeleaf, JUnit, Mockito, PowerMock, Hamcrest, Testcontainers, Vavr, Maven, Gradle, HikariCP, Agroal, Microprofile, JMeter, JVM Tuning and VisualVM.
 
 - **Scripts**:
   - Shell Script and AWK
