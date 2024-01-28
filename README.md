@@ -22,7 +22,7 @@ Currently, I'm studying the concepts below.
   - AWS (IAM, VPC, EC2, S3, EKS, SES)
   - Firebase (Authentication, Firestore, RealtimeDB, Storage, Hosting, Functions, Messaging and Emulators)
 
-- **SGBDs**:
+- **DBMSs**:
   - MySQL, PostgreSQL and Redis
 
 - **Other Languages and DSLs**: 
